@@ -1,71 +1,68 @@
 # Fortinet Cybersecurity Foundations – Study Notes
+# Cybersecurity Foundations Portfolio
 
-## Project Overview
+## Overview
 
-This repository contains structured study notes based on the Fortinet Cybersecurity Foundations course.
+This repository is a structured cybersecurity learning portfolio based on Fortinet Cybersecurity Foundations.
 
-The purpose of this project is to document and organize core cybersecurity concepts in a clear and simplified way based on personal understanding, not direct course copying.
+It demonstrates my understanding of core cybersecurity domains through organized study notes written in my own words.
 
-The notes focus on explaining concepts in a practical and structured format that helps in building a strong foundation in network security and cybersecurity fundamentals.
+The goal is to move from theoretical learning to structured technical documentation aligned with real-world security concepts.
 
 ---
 
-## Learning Objectives
+## Scope of Learning
 
-By completing and organizing these notes, the following concepts are covered:
+This portfolio covers the following cybersecurity domains:
 
-- Fundamentals of Cryptography and PKI
-- Secure Network Architecture and Protection Mechanisms
+- Cryptography and Public Key Infrastructure (PKI)
+- Secure Network Architecture and Defense Mechanisms
 - Authentication and Access Control Systems
 - Secure Remote Access Technologies (VPN, ZTNA)
-- Endpoint Security and Protection Methods
+- Endpoint Security and Device Protection
 - Data and Application Security
-- Cloud Security and Virtualization Concepts
+- Cloud Security and Virtualization
 
 ---
 
-## Content Structure
+## Structure
 
-The repository is divided into structured modules:
+The repository is organized into modules:
 
-- Module 1: Cryptography and Public Key Infrastructure (PKI)
-- Module 2: Secure Network
-- Module 3: Authentication and Access Control
-- Module 4: Secure Remote Access
-- Module 5: Endpoint Security
-- Module 6: Secure Data and Applications
-- Module 7: Cloud Security and Virtualization
+modules/
+Each module contains simplified explanations of key cybersecurity concepts.
 
-Each module contains simplified explanations of key concepts rewritten in my own understanding to reinforce learning.
+summary/
+Contains a consolidated cheat sheet summarizing all key concepts.
 
 ---
 
-## Learning Approach
+## Learning Methodology
 
-This repository is not a direct copy of the course material.
+The content is not copied from course material.
 
-Instead, it is built using the following approach:
+It is built using:
 
-- Understanding concepts first
-- Rewriting them in simplified form
-- Connecting theory with real-world cybersecurity applications
-- Focusing on practical understanding rather than memorization
+- Concept understanding
+- Simplified technical explanation
+- Real-world security interpretation
+- Structured documentation practice
 
 ---
 
-## Purpose
+## Purpose of This Project
 
-The goal of this project is to:
+This portfolio is designed to demonstrate:
 
-- Build strong cybersecurity fundamentals
-- Develop technical documentation skills
-- Prepare for real-world security roles (SOC / Network Security / Cybersecurity Analyst)
-- Create a structured learning portfolio
+- Foundational cybersecurity knowledge
+- Ability to document technical concepts clearly
+- Structured thinking in security topics
+- Readiness for SOC / Network Security / Cybersecurity Analyst roles
 
 ---
 
 ## Author
 
 Areen Ragheb
-
 Network Security and Systems Engineer
+---
